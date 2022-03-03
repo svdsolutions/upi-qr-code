@@ -1,1 +1,4 @@
-# Click - https://nsisodiya.github.io/Universal-UPI-QR-Code-Generator/
+# Click - https://wennkat.github.io/upi-qr-code/
+
+/
+upi-qr-code
