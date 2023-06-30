@@ -1,4 +1,4 @@
-# Click - https://wennkat.github.io/upi-qr-code/
+# Click - https://svdsolutions.github.io/upi-qr-code/
 
 /
 upi-qr-code
